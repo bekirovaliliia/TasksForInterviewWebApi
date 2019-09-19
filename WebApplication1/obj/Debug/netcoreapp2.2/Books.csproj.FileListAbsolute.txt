@@ -1,0 +1,14 @@
+C:\Users\Liliia\source\repos\WebApplication1\bin\Debug\netcoreapp2.2\Books.deps.json
+C:\Users\Liliia\source\repos\WebApplication1\bin\Debug\netcoreapp2.2\Books.runtimeconfig.json
+C:\Users\Liliia\source\repos\WebApplication1\bin\Debug\netcoreapp2.2\Books.runtimeconfig.dev.json
+C:\Users\Liliia\source\repos\WebApplication1\bin\Debug\netcoreapp2.2\Books.dll
+C:\Users\Liliia\source\repos\WebApplication1\bin\Debug\netcoreapp2.2\Books.pdb
+C:\Users\Liliia\source\repos\WebApplication1\obj\Debug\netcoreapp2.2\Books.csprojAssemblyReference.cache
+C:\Users\Liliia\source\repos\WebApplication1\obj\Debug\netcoreapp2.2\Books.csproj.CoreCompileInputs.cache
+C:\Users\Liliia\source\repos\WebApplication1\obj\Debug\netcoreapp2.2\Books.RazorAssemblyInfo.cache
+C:\Users\Liliia\source\repos\WebApplication1\obj\Debug\netcoreapp2.2\Books.RazorAssemblyInfo.cs
+C:\Users\Liliia\source\repos\WebApplication1\obj\Debug\netcoreapp2.2\Books.AssemblyInfoInputs.cache
+C:\Users\Liliia\source\repos\WebApplication1\obj\Debug\netcoreapp2.2\Books.AssemblyInfo.cs
+C:\Users\Liliia\source\repos\WebApplication1\obj\Debug\netcoreapp2.2\Books.RazorTargetAssemblyInfo.cache
+C:\Users\Liliia\source\repos\WebApplication1\obj\Debug\netcoreapp2.2\Books.dll
+C:\Users\Liliia\source\repos\WebApplication1\obj\Debug\netcoreapp2.2\Books.pdb
